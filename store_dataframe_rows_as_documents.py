@@ -4,6 +4,9 @@ Institution: The University of Edinburgh
 Department: School of Informatics
 Contact: b.mukeswe@sms.ed.ac.uk
 Date: June 3, 2019
+
+Description: This script can be used to store each row of a pandas dataframe
+             as a document within a collection in a mongodb database.
 '''
 
 # import relevant libraries
