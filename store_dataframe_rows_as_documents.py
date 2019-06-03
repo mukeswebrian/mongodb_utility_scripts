@@ -79,9 +79,9 @@ def store_data(data, collection):
 ## Configure mongodb database server
 
 # modify server details as necessary
-server = {"host" : "midgard09",
+server = {"host" : "localhost",
           "port" : 27017,
-          "database" : "specify_data_base_name",
+          "database" : "specify_database_name",
           "collection" : "specify_collection_name"}
 
 # obtain collection pointer
