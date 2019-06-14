@@ -57,7 +57,7 @@ server = {"host":"localhost",
 collection = config_collection(server)
 
 
-## Epecify query (usingmongodb syntax)
+## Specify query (usingmongodb syntax)
 query = {} # empty query returns all the documents in the collection
 
 
